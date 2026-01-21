@@ -2,7 +2,7 @@ package src;
 
 
 // EXERCISES
-public class Main {
+public class DatatypeSolutions {
     public static void main(String[] args) {
         // AUFGABE 1:
         // - Lege eine Variable "anzahlStudenten" mit passendem Datentyp an.

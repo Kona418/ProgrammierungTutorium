@@ -5,7 +5,7 @@ package src;
     // Die System.out.println() statements dienen der Überprüfung des Ergebnisses und müssen nicht verändert werden.
 
 
-public class Main {
+public class DatatypeExercises {
     public static void main(String[] args) {
         // AUFGABE 1:
         // - Lege eine Variable "anzahlStudenten" mit passendem Datentyp an.
