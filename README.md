@@ -1,2 +1,2 @@
-# Programmierung2Tutorium
+# ProgrammierungTutorium
 Hier findet ihr alle Übungen und Folien die im Rahmen des Tutoriums für Programmeirung 2 behandelt werden.
