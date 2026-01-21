@@ -483,10 +483,10 @@ public static void main(String[] args) {
 * 'kontrollstrukturen'
 
 **Übungen öffnen:**
-* nacheinander im Terminal ausführen (Thema aus Liste für <thema> einsetzen:
+* nacheinander im Terminal ausführen (Thema aus Liste für THEMA einsetzen):
 * 'git stash'
-* 'git checkout semester1/<thema>'
-* Im Ordner <Thema>Exercises sind die Aufgaben, in <Thema>Solutions die Lösungen
+* 'git checkout semester1/THEMA'
+* Im Ordner THEMAExercises sind die Aufgaben, in THEMASolutions die Lösungen
 * Die Kommentare im Code beschreiben, was zu tun ist!
 
 
