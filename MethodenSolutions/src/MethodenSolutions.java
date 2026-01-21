@@ -1,7 +1,7 @@
 package src;
 
 // EXERCISES – METHODEN
-public class Main {
+public class MethodenSolutions {
 
     public static void main(String[] args) {
 
