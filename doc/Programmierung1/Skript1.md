@@ -439,7 +439,6 @@ public static void main(String[] args) {
         case 'd':
             System.out.println("divers");
             break;
-    
         default:
             System.out.println("nur \"m|w|d\" zugelassen");
             break;
