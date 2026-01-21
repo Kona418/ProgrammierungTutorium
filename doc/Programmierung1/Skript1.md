@@ -471,23 +471,23 @@ public static void main(String[] args) {
 
 ## Übungen (Stand 21.01.2026)
 **Vorbereitung:**
--> In VSCode/IntelliJ Terminal öffnen
--> Repository klonen:
-'git clone https://github.com/Kona418/ProgrammierungTutorium.git'
-'cd ProgrammierungTutorium'
--> Alternativ: Menüpunkt 'Neues Projekt aus Versionskontrolle' aufrufen und Repository Link einfügen
+* In VSCode/IntelliJ Terminal öffnen
+* Repository klonen:
+* 'git clone https://github.com/Kona418/ProgrammierungTutorium.git'
+* 'cd ProgrammierungTutorium'
+* Alternativ: Menüpunkt 'Neues Projekt aus Versionskontrolle' aufrufen und Repository Link einfügen
 
 **Verfügbare Themen:**
-'datatypes'
-'methoden'
-'kontrollstrukturen'
+* 'datatypes'
+* 'methoden'
+* 'kontrollstrukturen'
 
 **Übungen öffnen:**
--> nacheinander im Terminal ausführen (Thema aus Liste für <thema> einsetzen:
-'git stash'
-'git checkout semester1/<thema>'
--> Im Ordner <Thema>Exercises sind die Aufgaben, in <Thema>Solutions die Lösungen
--> Die Kommentare im Code beschreiben, was zu tun ist!
+* nacheinander im Terminal ausführen (Thema aus Liste für <thema> einsetzen:
+* 'git stash'
+* 'git checkout semester1/<thema>'
+* Im Ordner <Thema>Exercises sind die Aufgaben, in <Thema>Solutions die Lösungen
+* Die Kommentare im Code beschreiben, was zu tun ist!
 
 
 
